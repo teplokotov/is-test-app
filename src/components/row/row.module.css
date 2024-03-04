@@ -1,0 +1,14 @@
+.row {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 20px; /* https://github.com/petyosi/react-virtuoso/issues/728#issuecomment-1224876474 */
+  margin: 0;
+  padding: 0;
+  font-size: 14px;
+  line-height: 20px;
+  padding: 0 20px;
+}
+
+.row:hover {
+  cursor: pointer;
+  background-color: #addfff;
+}
