@@ -3,6 +3,7 @@
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Virtuoso](https://img.shields.io/badge/virtuoso-%23007ACC.svg?style=for-the-badge&logo=virtuoso&logoColor=white)](https://virtuoso.dev)
 
+[![image](https://github.com/teplokotov/is-test-app/assets/118915923/a4824a43-29e8-4615-b4d5-31ddb51f7bb9)](https://teplokotov.github.io/is-test-app/)
 
 🌐 [https://teplokotov.github.io/is-test-app/](https://teplokotov.github.io/is-test-app/)
 
