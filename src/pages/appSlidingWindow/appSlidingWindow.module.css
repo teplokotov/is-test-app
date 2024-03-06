@@ -1,0 +1,70 @@
+.loading {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  width: 100%;
+}
+
+.main {
+  display: flex;
+  flex-direction: row;
+}
+
+.wrapper {
+  width: 50%;
+  overflow-y: scroll;
+  border-right: 2px solid #ddd;
+  height: 100vh;
+}
+
+.list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  /* height: 100vh; */
+  /* border-right: 2px solid #ddd; */
+  /* overflow: hidden;
+  overflow-y: scroll; */
+}
+
+.form {
+  width: 50%;
+}
+
+.title {
+  margin: 0;
+  font-size: 16px;
+  padding: 10px 20px;
+  background-color: #addfff;
+}
+
+.fields {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  gap: 20px;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  padding: 0;
+  margin: 0;
+}
+
+.label {
+  min-width: 80px;
+}
+
+.input {
+  width: 100%;
+}
+
+.button {
+  width: fit-content;
+  padding: 5px 20px;
+  align-self: center;
+  cursor: pointer;
+}
