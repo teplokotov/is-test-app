@@ -19,7 +19,7 @@ git clone https://github.com/teplokotov/is-test-app.git
 ```
 2. Перейдите в директорию проекта
 ```bash
-cd only-test-app
+cd is-test-app
 ```
 3. Установите модули
 ```bash
