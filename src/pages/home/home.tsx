@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import styles from './home.module.css';
 
 function Home() {
@@ -5,8 +6,8 @@ function Home() {
     <main className={styles.main}>
       <h1 className={styles.title}>Варианты реализации</h1>
       <ul className={styles.list}>
-        <li><a className={styles.link} href="/virtuoso">✈️ Virtuoso</a></li>
-        <li><a className={styles.link} href="/sw">🚀 Sliding window</a></li>
+        <li><Link className={styles.link} to="/virtuoso">✈️ Virtuoso</Link></li>
+        <li><Link className={styles.link} to="/sw">🚀 Sliding window</Link></li>
       </ul>
     </main>
   );
